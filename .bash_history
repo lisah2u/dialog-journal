@@ -22,3 +22,11 @@ ls
 pwd
 ls
 pwd
+nbdev_new dialog-journal
+pwd
+git init
+git add .
+git commit -m "initial commit"
+nbdev_new
+ls -al
+cat .gitignore
