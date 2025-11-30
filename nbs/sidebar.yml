@@ -3,10 +3,7 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
-      - section: "Journal Entries"
-        contents:
-          - entries/*.ipynb
-      - section: "Dialogs"
+      - section: dialogs
         contents:
           - dialogs/nbdev_environment.ipynb
           - dialogs/nbdev_setup.ipynb
