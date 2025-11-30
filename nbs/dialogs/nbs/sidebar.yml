@@ -1,0 +1,10 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - section: "Journal Entries"
+        contents:
+          - entries/*.ipynb
+      - section: "Dialogs"
+        contents:
+          - dialogs/*.ipynb
