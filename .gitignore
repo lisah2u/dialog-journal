@@ -1,10 +1,62 @@
 # Python-generated files
 __pycache__/
 *.py[oc]
+
+# Virtual environments
+.venv/
+.env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# nbdev build artifacts
+_proc/
+docs/
+site/
 build/
 dist/
-wheels/
-*.egg-info
+
+# User/editor/system noise
+.DS_Store
+Thumbs.db
+.vscode/
+*.code-workspace
+
+# Shell history (should not be versioned)
+.bash_history
+
+# Local dev config
+.ipython/
+.local/
+.cache/
+.ssh/
+
+# Package cache
+.eggs/
+*.egg-info/
+
+# Logs
+*.log
 
 # Virtual environments
 .venv
+
+# Jupyter/nbdev
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
+.vscode/
+*.code-workspace
+
+# other stuff
+*.log
+.bash_history
+.cache/
+.ipython
+.lesshst
+.local
+.python-version
+

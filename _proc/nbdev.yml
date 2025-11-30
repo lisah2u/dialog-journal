@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "dialog-journal"
-  site-url: "https://lisa.github.io/dialog-journal"
-  description: "My dialog engineering learning journal"
-  repo-branch: main
-  repo-url: "https://github.com/lisa/dialog-journal"
