@@ -2,7 +2,7 @@
 
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/dialog-journal',
-                'doc_host': 'https://lisa.github.io',
-                'git_url': 'https://github.com/lisa/dialog-journal',
+                'doc_host': 'https://lisah2u.github.io',
+                'git_url': 'https://github.com/lisah2u/dialog-journal',
                 'lib_path': 'dialog_journal'},
   'syms': {'dialog_journal.core': {'dialog_journal.core.foo': ('core.html#foo', 'dialog_journal/core.py')}}}
