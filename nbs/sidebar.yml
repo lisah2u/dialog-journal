@@ -2,8 +2,10 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 00_core.ipynb
       - section: dialogs
         contents:
           - dialogs/nbdev_environment.ipynb
           - dialogs/nbdev_setup.ipynb
+      - section: entries
+        contents:
+          - entries/2025-12-01.ipynb
